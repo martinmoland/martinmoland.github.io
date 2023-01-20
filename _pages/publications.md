@@ -26,3 +26,16 @@ Recommended citation: Moland, M. (2022, August 20). Opting for opt-outs? - Natio
 
 ## [News, Misinformation and Support for the EU: Exploring the Effect of Social Media as Polarising Force or Neutral Mediators](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3889187)
 As social media platforms have become a staple news source for many EU citizens, we model repurposed Eurobarometer data from 27 EU member states to explore the possible polarising effects of social media use on public opinion about European integration. In a first step, we investigate whether social media use is correlated with decreased trust in the EU. In a second step, we probe the link between social media news consumption, fake news and polarisation by expanding the cross-sectional analysis with EU level analyses of the interaction between social media use and fake news. Our research paper finds no significant correlation between social media use and increased Euroscepticism at either step. We argue that this lack of significant social media effects at the aggregate level is an argument for why future research on social media effects should incorporate measures of these effects at both the individual and societal level. Thus, while our study focuses on a European context, it holds important lessons for future social media research outside of Europe too.
+
+# Conference presentations and invited talks
+## 2022
+### ECPR General Conference 2022
+Moland, M. (2022) *Does differentiation beget differentiation: Examining the link between exposure to and support for differentiation*[Conference presentation]. ECPR General Conference, Innsbruck, Austria.
+
+### ECPR Standing Group on European Union Biannual Conference 2022
+* Presenter: Moland, M. (2022) *Domination and public support for differentiation: Examining the connection between mode of implementation and support for differentiated integration*[Conference presentation].
+* Panel chair: "The politicization and mediatization of Europe's differentiated order"
+
+### European Union Studies Association 17th Biannual Conference
+Moland, M. (2022) *Opting for opt-outs – Untangling the role of identity in shaping support for differentiated integration*[Conference presentation]. EUSA 17th Biannual Conference, Miami, Florida.
+
