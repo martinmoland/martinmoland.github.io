@@ -26,13 +26,3 @@ Recommended citation: Moland, M. (2022, August 20). Opting for opt-outs? - Natio
 
 ## [News, Misinformation and Support for the EU: Exploring the Effect of Social Media as Polarising Force or Neutral Mediators](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3889187)
 As social media platforms have become a staple news source for many EU citizens, we model repurposed Eurobarometer data from 27 EU member states to explore the possible polarising effects of social media use on public opinion about European integration. In a first step, we investigate whether social media use is correlated with decreased trust in the EU. In a second step, we probe the link between social media news consumption, fake news and polarisation by expanding the cross-sectional analysis with EU level analyses of the interaction between social media use and fake news. Our research paper finds no significant correlation between social media use and increased Euroscepticism at either step. We argue that this lack of significant social media effects at the aggregate level is an argument for why future research on social media effects should incorporate measures of these effects at both the individual and societal level. Thus, while our study focuses on a European context, it holds important lessons for future social media research outside of Europe too.
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
