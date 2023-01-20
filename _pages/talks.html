@@ -5,18 +5,12 @@ permalink: /talks/
 author_profile: true
 ---
 
-# Conference presentations
+{% if site.talkmap_link == true %}
 
-## 2022
+<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 
-### ECPR General Conference 2022
-* Presenter: Moland, M. (2022) *Does differentiation beget differentiation: Examining the link between exposure to and support for differentiation*[Conference presentation]. ECPR General Conference, Innsbruck, Austria.
+{% endif %}
 
-### ECPR Standing Group on European Union Biannual Conference 2022
-* Presenter: Moland, M. (2022) *Domination and public support for differentiation: Examining the connection between mode of implementation and support for differentiated integration*[Conference presentation]. ECPR SGEU, Rome, Italy.
-* Panel chair "The politicization and mediatization of Europe’s differentiated order"
-
-### European Union Studies Association 17th Biannual Conference,
-* Presenter: Moland, M. (2022) *Opting for opt-outs – Untangling the role of identity in shaping support for differentiated integration*[Conference presentation]. EUSA 17th Biannual Conference, Miami, Florida.
- 
- 
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
