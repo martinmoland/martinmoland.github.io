@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at ARENA, Centre for European Studies, based at the University of Oslo. My academic focus is on the study of political behavior, predominantly using survey methodology. I am especially interested in how social identities structure support for EU policies. My PhD project investigates the ambivalence of popular attitudes towards the EU and public opinion towards differentiated integration of the EU. You can find a brief summary of my most recent work here.
+I am a PhD student at ARENA, Centre for European Studies, based at the University of Oslo. My academic focus is on the study of political behavior, predominantly using survey methodology. I am especially interested in how social identities structure support for EU policies. My PhD project investigates the ambivalence of popular attitudes towards the EU and public opinion towards differentiated integration of the EU.
 
 **Affiliations**
 
