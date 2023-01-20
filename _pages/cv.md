@@ -11,30 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Political Science, University of Oslo, 2023 (expected)
+* MA, Political Science, University of Oslo (2018)
+* BA, European Studies, University of Oslo (2016)
+* BA, Journalism, Volda University College (2012)
 
-Work experience
+Academic work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020-: PhD research fellow
+  * University of Oslo (ARENA, Centre for European Studies)
+  * Currently writing my PhD thesis on popular opinion towards EU differentiated integration and ambivalent attitudes towards the EU. I am affiliated with the projects [EU3D](www.eu3d.uio.no), [SINGLEMARKETS](https://www.sv.uio.no/arena/english/research/projects/singlemarkets/index.html) and [RECLAIM](https://ams.hi.is/en/projects/reclaim/).
+  * Supervisors: Professors [Chris Lord](https://www.sv.uio.no/arena/english/people/aca/chrilor/index.html), [John Erik Fossum](https://www.sv.uio.no/arena/english/people/aca/jonef/index.html) and Assistant Professor [Peter Egge Langsæther](https://www.sv.uio.no/isv/english/people/aca/peterla/index.html).
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* September 2017 - May 2018: Master's Research Fellow
+  * University of Oslo (ARENA, Centre for European Studies)
+  * Wrote my thesis on the impact of EU austerity on trust, using difference-in-difference methods to arrive at quasi-experimental and causal estimates of these effects.
+  * Supervisor: Associate Professor [Jørgen Bølstad](https://www.sv.uio.no/isv/english/people/aca/boelstad/index.html)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* R statistical programming
+  * Tidyverse
+  * Multilevel modelling using *lme4*  
+* Statistics
+  * Quasi-experimental causal inference
+  * Factor analysis
+  * Quantitative analysis of multilevel data
 
 Publications
 ======
@@ -56,4 +58,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently member of the board of ARENA, Centre for European Studies
+* Reviewer for *West European Politics*
