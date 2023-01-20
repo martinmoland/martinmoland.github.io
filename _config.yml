@@ -14,7 +14,7 @@ description              : &description "PhD student at ARENA, Centre for Europe
 url                      : https://martinmoland.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "martinmoland.github.io"
-teaser                   :  "Martin Moland press photo.jpg"
+teaser                   : # "Martin Moland press photo.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Martin Moland"
-  avatar           : "profile.png"
+  avatar           : "Martin Moland press photo.jpg"
   bio              : "PhD student focusing on EU public opinion and the study of media effects"
   location         : "Oslo, Norway"
   employer         :
