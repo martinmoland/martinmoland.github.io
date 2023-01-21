@@ -12,7 +12,7 @@ I am a PhD student at ARENA, Centre for European Studies, based at the Universit
 
 **Affiliations**
 
-I am associated with the Horizon 2020 projects [EU3D](www.eu3d.uio.no/), which offers cutting-edge research on the differentiated nature of EU integration, and [RECLAIM](https://ams.hi.is/en/projects/reclaim/). The latter is a Horizon 2020 funded project investigating both the post-truth turn of political debate, and what demands citizens place on quality journalism today. The project will also investigate EU responses to this post-truth turn. 
+I am associated with the Horizon 2020 projects [EU3D](https://www.eu3d.uio.no/)), which offers cutting-edge research on the differentiated nature of EU integration, and [RECLAIM](https://ams.hi.is/en/projects/reclaim/). The latter is a Horizon 2020 funded project investigating both the post-truth turn of political debate, and what demands citizens place on quality journalism today. The project will also investigate EU responses to this post-truth turn. 
 
 I am also affiliated with the project [SINGLEMARKETS](https://www.sv.uio.no/arena/english/research/projects/singlemarkets/index.html). This project investigates popular attitudes to single market governance in the EU and the EU.
 
