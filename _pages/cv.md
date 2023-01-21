@@ -20,7 +20,7 @@ Academic work experience
 ======
 * 2020-: PhD research fellow
   * University of Oslo (ARENA, Centre for European Studies)
-  * Currently writing my PhD thesis on popular opinion towards EU differentiated integration and ambivalent attitudes towards the EU. I am affiliated with the projects [EU3D](www.eu3d.uio.no), [SINGLEMARKETS](https://www.sv.uio.no/arena/english/research/projects/singlemarkets/index.html) and [RECLAIM](https://ams.hi.is/en/projects/reclaim/).
+  * Currently writing my PhD thesis on popular opinion towards EU differentiated integration and ambivalent attitudes towards the EU. I am affiliated with the projects [EU3D](https://www.eu3d.uio.no), [SINGLEMARKETS](https://www.sv.uio.no/arena/english/research/projects/singlemarkets/index.html) and [RECLAIM](https://ams.hi.is/en/projects/reclaim/).
   * Supervisors: Professors [Chris Lord](https://www.sv.uio.no/arena/english/people/aca/chrilor/index.html), [John Erik Fossum](https://www.sv.uio.no/arena/english/people/aca/jonef/index.html) and Assistant Professor [Peter Egge Langsæther](https://www.sv.uio.no/isv/english/people/aca/peterla/index.html).
 
 * September 2017 - May 2018: Master's Research Fellow
