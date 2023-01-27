@@ -6,7 +6,7 @@ author_profile: true
 ---
 # Peer-reviewed journal articles
 
-## [Constraining dissensus *and* permissive consensus: Variations in support for core state powers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3807496) 
+## [Constraining dissensus *and* permissive consensus: Variations in support for core state powers](https://github.com/martinmoland/martinmoland.github.io/blob/master/files/Accepted%20paper%20-%20WEP.pdf) 
 One of the key features of the post-Maastricht Treaty EU is the increasing contestation of its integration. This is often attributed to the EU’s increasing integration of politically salient policy areas core to state functioning, so-called “core state powers” (CSPs). These are often thought to have features making their integration particularly likely to be contested However, whether this equally applies to all core state powers, and whether those with exclusively national identities express generally identical support for all forms of CSP integration, is under-investigated. Using Eurobarometer data from 2019-2021, this article shows that those with no European identity are more likely to oppose CSP integration where it constrains member states’ domestic, rather than external, autonomy. This implies that an emerging constraining dissensus may be less of a challenge for the EU’s increasing foreign policy integration, but that it may hinder further integration of domestic core state power integration.
 
 Recommended citation: Moland, M. (2022) 'Constraining Dissensus and Permissive Consensus: Variations in Support for Core State Power Integration', *West European Politics*, doi:10.1080/01402382.2022.2104052
