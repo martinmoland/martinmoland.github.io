@@ -11,8 +11,6 @@ title                    : "Martin Moland"
 title_separator          : "-"
 name                     : &name "Martin Moland"
 description              : &description "PhD student at ARENA, Centre for European Studies"
-url                      : https://martinmoland.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "martinmoland.github.io"
 teaser                   : # "Martin Moland press photo.jpg"
 breadcrumbs              : false # true, false (default)
