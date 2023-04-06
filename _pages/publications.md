@@ -25,6 +25,9 @@ The question of what characterises the European public sphere, and whether one e
 
 Recommended citation: Moland, M. and Michailidou, A. (forthcoming) ‘United, we tweet’: Belonging and solidarity in German and Greek Twitter-spheres. In: Fossum, JE and Batora, J. (eds) *EU Differentiation and the Question of Domination: From the Financial Crisis to COVID-19*, Routledge.
 
+# Papers in review
+Moland, M. and Michailidou, A. (revise and resubmit with *Political Studies Review*) Testing causal inference between social media news reliance and (dis)trust of EU institutions with an Instrumental Variable Approach: Lessons from a null-hypothesis case
+
 # Working papers and pre-prints
 
 ## [Does differentiation beget differentiation? Examining the link between exposure to and support for differentiation](https://osf.io/preprints/socarxiv/5juyg)
