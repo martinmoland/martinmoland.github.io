@@ -7,7 +7,7 @@ author_profile: true
 # Peer-reviewed journal articles
 
 ## [Opting for opt-outs? National identities and support for a differentiated EU](https://github.com/martinmoland/martinmoland.github.io/blob/master/files/Opting%20for%20opt-outs%20-%20AAM.pdf)
-<img align="left" src="../fig_1-kopi.jpg" alt="Figure 1" width="400" height="400">
+<img align="left" src="./fig_1-kopi.jpg" alt="Figure 1" width="400" height="400">
 A large literature investigates individual support for European integration. However, support for differentiated integration has only recently become an important topic of study for public opinion scholars. Previous literature on this issue has not probed how differentiated integration is shaped by exclusively national identities, and whether the effect varies by how differentiation has been framed. Using survey data from 2020-21, I show that exclusively national citizens are most likely to support differentiated integration that allows for greater national autonomy and may oppose differentiation whose primary goal it is to facilitate further integration. However, I find no clear link between elite framing of differentiated integration and popular support for it. This raises important questions both about what kind of differentiated integration will enjoy public legitimacy and how cues shape support for EU differentiation. 
 
 Recommended citation: Moland, M. (2023) 'Opting for opt-outs? National identities and support for a differentiated EU', *JCMS: Journal of Common Market Studies*, [doi:10.1111/jcms.13478](https://onlinelibrary.wiley.com/doi/abs/10.1111/jcms.13478)
