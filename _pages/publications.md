@@ -6,6 +6,13 @@ author_profile: true
 ---
 # Peer-reviewed journal articles
 
+## Testing causal inference between social media news reliance and (dis)trust of EU institutions with an Instrumental Variable Approach: Lessons from a null-hypothesis case
+Given the well-documented negativity bias and attitudinal entrenchment associated with sharing and debating news in social media, a reasonable and already substantially investigated assumption is that those getting news about the EU mostly from social media would be more sceptical of its institutions than others. Empirical research on this topic has thus far largely deployed experimental and observational methods to investigate this assumption. We contribute to the existing literature with an Instrumental Variable Approach well-suited to establishing causal relationships in non-experimental data. However, we find no blanket causal relationship between relying on social media for news about the EU polity and becoming less trustful of its institutions. EU policies aiming to tackle negative effects of social media news consumption, therefore, need to be tailored to different demographic groups.
+
+Recommended citation:  
+Moland, M. and Michailidou, A. (accepted) Testing causal inference between social media news reliance and (dis)trust of EU institutions with an Instrumental Variable Approach: Lessons from a null-hypothesis case
+
+
 ## [Opting for opt-outs? National identities and support for a differentiated EU](https://github.com/martinmoland/martinmoland.github.io/blob/master/files/Opting%20for%20opt-outs%20-%20AAM.pdf)
 A large literature investigates individual support for European integration. However, support for differentiated integration has only recently become an important topic of study for public opinion scholars. Previous literature on this issue has not probed how differentiated integration is shaped by exclusively national identities, and whether the effect varies by how differentiation has been framed. Using survey data from 2020-21, I show that exclusively national citizens are most likely to support differentiated integration that allows for greater national autonomy and may oppose differentiation whose primary goal it is to facilitate further integration. However, I find no clear link between elite framing of differentiated integration and popular support for it. This raises important questions both about what kind of differentiated integration will enjoy public legitimacy and how cues shape support for EU differentiation. 
 
@@ -25,23 +32,6 @@ Recommended citation: Moland, M. (2022) 'Constraining Dissensus and Permissive C
 The question of what characterises the European public sphere, and whether one exists in the first place, has been a topic of flourishing academic debate for many years. Concomitant with the rise of social media such as Twitter and Facebook, the focus has shifted to exploring how social media can be used to encourage a European public sphere that is fully transnational in nature. Our paper contributes to this literature by focusing on the transnationalisation of the public sphere in the context of European integration under conditions of crisis. Using a topic modelling approach, we map the topics of German and Greek Twitter-sphere surrounding the refugee crisis of 2015-2016 and the COVID-19 crisis of 2020-2021, exploiting the multilingual nature of Twitter discourses in the two countries to investigate transnationalization and Europeanization of discourses both in domestic-language and English-language tweets in the two countries. We thus bring new empirical analysis to the timely issue of whether the EU’s near-permanent state of crisis in the past and current decade has given rise to a de-differentiated public sphere, whereby Europeans use social media to debate the same topics while applying the same frames of reference, or social media instead continue to serve as an amplifier of national discourses and debates.
 
 Recommended citation: Moland, M. and Michailidou, A. (forthcoming) ‘United, we tweet’: Belonging and solidarity in German and Greek Twitter-spheres. In: Fossum, JE and Batora, J. (eds) *EU Differentiation and the Question of Domination: From the Financial Crisis to COVID-19*, Routledge.
-
-# Papers in review
-
-## Differentiated effects of a differentiated union? Investigating contextual-individual interplay in attitude-formation regarding EU differentiated integration
-
-The paper is currently undergoing peer review in *European Journal of Political Research*.
-
-Brexit has led to a discussion about what shape the future EU should take. One possibility is to expand the use of what is called differentiated integration, that allows countries to be exempted from new EU laws on either a temporary or permanent basis. However, the question of how past differentiated integration impacts current attitudes towards future differentiated integration is under-investigated. This paper uses recent data examining attitudes towards differentiated integration together with a novel measure of historical exposure to differentiated integration to show that individual variations in both attitudes towards the EU and perceptions of national identity produce diverging responses to the idea that the future EU should become less uniform. In addition to expanding our knowledge of attitude formation to a differentiated EU, the results suggest that the EU's expanding use of temporary or permanent exemptions from EU law may exacerbate the same demands for a less integrated union reflected by a strengthening of Eurosceptic parties in the wake of the sovereign debt crisis.
-
-A preprint with replication data is available [here](https://osf.io/preprints/socarxiv/5juyg). It can be cited as:   
-Moland, M. (2022, November 14). Does differentiation beget differentiation?: Examining the link between implementation of and support for differentiation. https://doi.org/10.31235/osf.io/5juyg(https://osf.io/preprints/socarxiv/5juyg)
-
-## Testing causal inference between social media news reliance and (dis)trust of EU institutions with an Instrumental Variable Approach: Lessons from a null-hypothesis case
-Given the well-documented negativity bias and attitudinal entrenchment associated with sharing and debating news in social media, a reasonable and already substantially investigated assumption is that those getting news about the EU mostly from social media would be more sceptical of its institutions than others. Empirical research on this topic has thus far largely deployed experimental and observational methods to investigate this assumption. We contribute to the existing literature with an Instrumental Variable Approach well-suited to establishing causal relationships in non-experimental data. However, we find no blanket causal relationship between relying on social media for news about the EU polity and becoming less trustful of its institutions. EU policies aiming to tackle negative effects of social media news consumption, therefore, need to be tailored to different demographic groups.
-
-Recommended citation:  
-Moland, M. and Michailidou, A. (unpublished) Testing causal inference between social media news reliance and (dis)trust of EU institutions with an Instrumental Variable Approach: Lessons from a null-hypothesis case
 
 
 # Working papers and pre-prints
