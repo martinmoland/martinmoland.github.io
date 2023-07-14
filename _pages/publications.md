@@ -6,11 +6,11 @@ author_profile: true
 ---
 # Peer-reviewed journal articles
 
-## Testing causal inference between social media news reliance and (dis)trust of EU institutions with an Instrumental Variable Approach: Lessons from a null-hypothesis case
+## [Testing causal inference between social media news reliance and (dis)trust of EU institutions with an Instrumental Variable Approach: Lessons from a null-hypothesis case](https://journals.sagepub.com/doi/10.1177/14789299231183574)
 Given the well-documented negativity bias and attitudinal entrenchment associated with sharing and debating news in social media, a reasonable and already substantially investigated assumption is that those getting news about the EU mostly from social media would be more sceptical of its institutions than others. Empirical research on this topic has thus far largely deployed experimental and observational methods to investigate this assumption. We contribute to the existing literature with an Instrumental Variable Approach well-suited to establishing causal relationships in non-experimental data. However, we find no blanket causal relationship between relying on social media for news about the EU polity and becoming less trustful of its institutions. EU policies aiming to tackle negative effects of social media news consumption, therefore, need to be tailored to different demographic groups.
 
 Recommended citation:  
-Moland, M. and Michailidou, A. (accepted) Testing causal inference between social media news reliance and (dis)trust of EU institutions with an Instrumental Variable Approach: Lessons from a null-hypothesis case
+Moland, M. and Michailidou, A. (2023) 'Testing causal inference between social media news reliance and (dis)trust of EU institutions with an Instrumental Variable Approach: Lessons from a null-hypothesis case', *Political Studies Review*, [doi/10.1177/14789299231183574](doi/10.1177/14789299231183574)
 
 
 ## [Opting for opt-outs? National identities and support for a differentiated EU](https://github.com/martinmoland/martinmoland.github.io/blob/master/files/Opting%20for%20opt-outs%20-%20AAM.pdf)
