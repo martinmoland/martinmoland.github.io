@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral fellow at ARENA, Centre for European Studies, based at the University of Oslo. The predominant focus of my postdoctoral research project is on how attitudes towards the truthfulness of political journalism are. In addition to this I am interested in how social identities form attitudes towards European integration and transnational cooperation more broadly, as well as in the study of differentiated integration within the EU. 
+I am a postdoctoral fellow at ARENA, Centre for European Studies, based at the University of Oslo. The predominant focus of my postdoctoral research project is on how attitudes towards the truthfulness of political journalism are created. In addition to this I am interested in how social identities form attitudes towards both European integration and transnational cooperation more broadly, as well as in the study of differentiated integration within the EU. 
 
 **Affiliations**
 
