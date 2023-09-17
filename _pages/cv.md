@@ -13,7 +13,7 @@ This features a selection of my CV. For the full, continually updated, CV click 
 
 Education
 ======
-* Ph.D in Political Science, University of Oslo, 2023 (expected)
+* Ph.D in Political Science, University of Oslo (2023)
 * MA, Political Science, University of Oslo (2018)
 * BA, European Studies, University of Oslo (2016)
 * BA, Journalism, Volda University College (2012)
