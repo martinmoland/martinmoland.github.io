@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Martin Moland"
 title_separator          : "-"
 name                     : &name "Martin Moland"
-description              : &description "PhD student at ARENA, Centre for European Studies"
+description              : &description "Postdoc at ARENA, Centre for European Studies"
 repository               : "martinmoland.github.io"
 teaser                   : # "Martin Moland press photo.jpg"
 breadcrumbs              : false # true, false (default)
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Martin Moland"
   avatar           : "Martin Moland press photo.jpg"
-  bio              : "PhD student focusing on EU public opinion and the study of media effects"
+  bio              : "Postdoc focusing on trust in political journalism and EU public opinion"
   location         : "Oslo, Norway"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
