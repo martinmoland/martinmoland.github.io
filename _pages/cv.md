@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-This features a selection of my CV. For the full, continually updated, CV [click here](https://github.com/martinmoland/martinmoland.github.io/blob/master/files/CV_Martin%20Moland.pdf).
+This features a selection of my CV. For the full, continually updated, CV [click here](https://martinmoland.github.io/files/CV_Martin%20Moland.pdf){:target="_blank"}.
 
 Education
 ======
