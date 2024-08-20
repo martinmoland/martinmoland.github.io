@@ -11,8 +11,9 @@ Asymmetries in the formal obligations and rights afforded to sub-units are mains
 
 [Link](https://doi.org/10.1093/publius/pjae001){: .btn--research}
 
-## [Testing causal inference between social media news reliance and (dis)trust of EU institutions with an Instrumental Variable Approach: Lessons from a null-hypothesis case](https://journals.sagepub.com/doi/10.1177/14789299231183574)
+## [Testing causal inference between social media news reliance and (dis)trust of EU institutions with an Instrumental Variable Approach: Lessons from a null-hypothesis case](https://martinmoland.github.io/files/MolandMichailidou_2023.pdf){:target="_blank"}
 Given the well-documented negativity bias and attitudinal entrenchment associated with sharing and debating news in social media, a reasonable and already substantially investigated assumption is that those getting news about the EU mostly from social media would be more sceptical of its institutions than others. Empirical research on this topic has thus far largely deployed experimental and observational methods to investigate this assumption. We contribute to the existing literature with an Instrumental Variable Approach well-suited to establishing causal relationships in non-experimental data. However, we find no blanket causal relationship between relying on social media for news about the EU polity and becoming less trustful of its institutions. EU policies aiming to tackle negative effects of social media news consumption, therefore, need to be tailored to different demographic groups.
+[Link](https://doi.org/10.1177/14789299231183574){: .btn--research}
 
 Recommended citation:  
 Moland, M. and Michailidou, A. (2023) 'Testing causal inference between social media news reliance and (dis)trust of EU institutions with an Instrumental Variable Approach: Lessons from a null-hypothesis case', *Political Studies Review*, [doi/10.1177/14789299231183574](doi/10.1177/14789299231183574)
@@ -23,7 +24,7 @@ A large literature investigates individual support for European integration. How
 
 Recommended citation: Moland, M. (2023) 'Opting for opt-outs? National identities and support for a differentiated EU', *JCMS: Journal of Common Market Studies*, [doi:10.1111/jcms.13478](https://onlinelibrary.wiley.com/doi/abs/10.1111/jcms.13478)
 
-[Click here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FDPBIG3) for replication code and data
+[Replication material](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FDPBIG3){: .btn--research}
 
 ## [Constraining dissensus *and* permissive consensus: Variations in support for core state powers](https://martinmoland.github.io/files/Accepted%20paper%20-%20WEP.pdf){:target="_blank"}
 <img align="left" width="300" height="300" src="../fig_4-kopi.jpg">
@@ -43,6 +44,7 @@ Recommended citation: Moland, M. and Michailidou, A. (forthcoming) ‘United, we
 
 ## [Comparing elite and citizen attitudes towards the differentiated implementation of EU law: Evidence from a large-N survey of citizens, politicians and bureaucrats](https://martinmoland.github.io/files/COMPLEX_MOLAND_2024.pdf){:target="_blank"}
 Transnational regulatory harmonization is a key building block of the international legal order. However, we know little about how elites and citizen views of regulatory harmonization differ. Using data from a Norwegian survey from 2023 I find both citizen-elite and intra-elite gaps in perceptions of legal harmonization. Future studies into public and elite opinion of international cooperation must thus theorize more clearly how the elite-citizen gap may vary for different elites, and empirically test how these differences manifest across policy areas.
+
 
 ## [Opting out of an EU identity? The effect of differentiated integration on European identity](https://martinmoland.github.io/files/Moland_DI_2024.pdf){:target="_blank"}
 <img align="left" width="300" height="300" src="../images/att_average.jpg">
