@@ -32,19 +32,3 @@ Academic work experience
   * University of Oslo (ARENA, Centre for European Studies)
   * Wrote my thesis on the impact of EU austerity on trust, using difference-in-difference methods to arrive at quasi-experimental and causal estimates of these effects.
   * Supervisor: Associate Professor [Jørgen Bølstad](https://www.sv.uio.no/isv/english/people/aca/boelstad/index.html)
-  
-Skills
-======
-* R statistical programming
-  * Tidyverse
-  * Multilevel modelling using *lme4*  
-* Statistics
-  * Quasi-experimental causal inference
-  * Factor analysis
-  * Quantitative analysis of multilevel data
-  
-Service and leadership
-======
-* Steering committee member, ECPR Research Network on differentiated integration in the EU
-* Currently member of the board of ARENA, Centre for European Studies
-* Reviewer for several political science journals
