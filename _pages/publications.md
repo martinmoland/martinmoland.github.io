@@ -6,7 +6,7 @@ author_profile: true
 ---
 # Peer-reviewed journal articles
 
-## [Past Political Asymmetry and Present Public Opinion: How Has the Asymmetrical Federation of the EU Shaped Popular Opinion of Its Optimal Shape?](https://academic.oup.com/publius/article/54/2/361/7582082)
+## [Past Political Asymmetry and Present Public Opinion: How Has the Asymmetrical Federation of the EU Shaped Popular Opinion of Its Optimal Shape?](https://martinmoland.github.io/files/Moland_2024_Publius.pdf){:target="_blank"}
 Asymmetries in the formal obligations and rights afforded to sub-units are mainstays of many federations that have been extensively studied from many angles. However, we know relatively little about how these asymmetries shape views on federalism in the future. By leveraging data on differentiated integration in the European Union (EU), conceptually very similar to asymmetrical federalism, and survey data on attitudes toward the optimal future of it, I show that historical exposure to differentiated integration resulting from a bottom-up process of demands for sub-unit autonomy correlates to increased support for permanent differentiation in the future, especially among those critical of the EU. However, the opposite applies to differentiation imposed by the EU. A legacy of asymmetric federalism may thus breed opposition or support for unitary European federalism, depending on both the mode of past asymmetry that citizens have been exposed to and their views of the EU.
 
 ## [Testing causal inference between social media news reliance and (dis)trust of EU institutions with an Instrumental Variable Approach: Lessons from a null-hypothesis case](https://journals.sagepub.com/doi/10.1177/14789299231183574)
