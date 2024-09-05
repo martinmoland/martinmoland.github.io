@@ -6,9 +6,17 @@ author_profile: true
 ---
 # Peer-reviewed journal articles
 
+## [Opting out of an EU identity? The effect of differentiated integration on European identity](https://martinmoland.github.io/files/Moland_DI_2024.pdf){:target="_blank"}
+<img align="left" width="300" height="300" src="../images/att_average.jpg">
+The link between European institutions and European identities remains an under-explored question. Similarly, we know little about how countries opting out of European integration have shaped their citizens' view of themselves as more or less European. Using general synthetic control models and data from $1983-2020$ I find that people in countries with opt-outs tend to identify as more strongly European in the years after an opt-out is implemented, but that this effect can only be described as causal where the opt-outs were the result of bottom-up demand for more sovereignty in specific areas. This shows that providing individual countries with greater autonomy may strengthen their citizens' attachment to Europe, but that any such effect is likely to depend on domestic variations in for instance elite politicization of European integration.
+
+Recommended citation: Moland, M. (accepted in *Journal of European Public Policy*) 'Opting out of an EU identity? The effect of differentiated integration on European identity'
+
 ## [Past Political Asymmetry and Present Public Opinion: How Has the Asymmetrical Federation of the EU Shaped Popular Opinion of Its Optimal Shape?](https://martinmoland.github.io/files/Moland_2024_Publius.pdf){:target="_blank"}
 <img align="left" width="300" height="300" src="../images/moland_publius_2024.jpeg">
 Asymmetries in the formal obligations and rights afforded to sub-units are mainstays of many federations that have been extensively studied from many angles. However, we know relatively little about how these asymmetries shape views on federalism in the future. By leveraging data on differentiated integration in the European Union (EU), conceptually very similar to asymmetrical federalism, and survey data on attitudes toward the optimal future of it, I show that historical exposure to differentiated integration resulting from a bottom-up process of demands for sub-unit autonomy correlates to increased support for permanent differentiation in the future, especially among those critical of the EU. However, the opposite applies to differentiation imposed by the EU. A legacy of asymmetric federalism may thus breed opposition or support for unitary European federalism, depending on both the mode of past asymmetry that citizens have been exposed to and their views of the EU.
+
+Recommended citation: Moland, M. (2024) 'Past Political Asymmetry and Present Public Opinion: How Has the Asymmetrical Federation of the EU Shaped Popular Opinion of Its Optimal Shape?', Publius: The Journal of Federalism, 54(2), pp.361-385.
 
 [Link](https://doi.org/10.1093/publius/pjae001){: .btn--research}
 
@@ -45,11 +53,6 @@ Recommended citation: Moland, M. and Michailidou, A. (forthcoming) ‘United, we
 
 ## [Comparing elite and citizen attitudes towards the differentiated implementation of EU law: Evidence from a large-N survey of citizens, politicians and bureaucrats](https://martinmoland.github.io/files/COMPLEX_MOLAND_2024.pdf){:target="_blank"}
 Transnational regulatory harmonization is a key building block of the international legal order. However, we know little about how elites and citizen views of regulatory harmonization differ. Using data from a Norwegian survey from 2023 I find both citizen-elite and intra-elite gaps in perceptions of legal harmonization. Future studies into public and elite opinion of international cooperation must thus theorize more clearly how the elite-citizen gap may vary for different elites, and empirically test how these differences manifest across policy areas.
-
-
-## [Opting out of an EU identity? The effect of differentiated integration on European identity](https://martinmoland.github.io/files/Moland_DI_2024.pdf){:target="_blank"}
-<img align="left" width="300" height="300" src="../images/att_average.jpg">
-The link between European institutions and European identities remains an under-explored question. Similarly, we know little about how countries opting out of European integration have shaped their citizens' view of themselves as more or less European. Using general synthetic control models and data from $1983-2020$ I find that people in countries with opt-outs tend to identify as more strongly European in the years after an opt-out is implemented, but that this effect can only be described as causal where the opt-outs were the result of bottom-up demand for more sovereignty in specific areas. This shows that providing individual countries with greater autonomy may strengthen their citizens' attachment to Europe, but that any such effect is likely to depend on domestic variations in for instance elite politicization of European integration.
 
 
 ## [News, Misinformation and Support for the EU: Exploring the Effect of Social Media as Polarising Force or Neutral Mediators](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3889187)
