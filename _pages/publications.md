@@ -6,11 +6,11 @@ author_profile: true
 ---
 # Peer-reviewed journal articles
 
-## [Opting out of an EU identity? The effect of differentiated integration on European identity](https://martinmoland.github.io/files/Moland_DI_2024.pdf){:target="_blank"}
+## [Opting out of an EU identity? The effect of differentiated integration on European identity](https://martinmoland.github.io/files/JEPP_2024_Moland.pdf){:target="_blank"}
 <img align="left" width="300" height="300" src="../images/att_average.jpg">
 The link between European institutions and European identities remains an under-explored question. Similarly, we know little about how countries opting out of European integration have shaped their citizens' view of themselves as more or less European. Using general synthetic control models and data from $1983-2020$ I find that people in countries with opt-outs tend to identify as more strongly European in the years after an opt-out is implemented, but that this effect can only be described as causal where the opt-outs were the result of bottom-up demand for more sovereignty in specific areas. This shows that providing individual countries with greater autonomy may strengthen their citizens' attachment to Europe, but that any such effect is likely to depend on domestic variations in for instance elite politicization of European integration.
 
-Recommended citation: Moland, M. (accepted in *Journal of European Public Policy*) 'Opting out of an EU identity? The effect of differentiated integration on European identity'
+Recommended citation: Moland, M. (2024) 'Opting out of an EU identity? The effect of differentiated integration on European identity', doi: 10.1080/13501763.2024.2402869
 
 ## [Past Political Asymmetry and Present Public Opinion: How Has the Asymmetrical Federation of the EU Shaped Popular Opinion of Its Optimal Shape?](https://martinmoland.github.io/files/Moland_2024_Publius.pdf){:target="_blank"}
 <img align="left" width="300" height="300" src="../images/moland_publius_2024.jpeg">
