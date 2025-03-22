@@ -8,15 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral fellow at ARENA, Centre for European Studies, based at the University of Oslo. The predominant focus of my postdoctoral research project is on how attitudes towards the truthfulness of political journalism are created. In addition to this I am interested in how social identities form attitudes towards both European integration and transnational cooperation more broadly, as well as in the study of differentiated integration within the EU. 
+I am a postdoctoral researcher at Jacques Delors Centre, working in the coordination project of the DFG-funded project [Reconfiguring Europe](https://www.delorscentre.eu/en/research/reconfiguring-europe). The aim of the project is to investigate how the member states of the European Union, in a broad perspective, have historically negotiated the trade-off between contributing resources to the EU institutions with a perceived need to have control over how those resources are spent. 
 
-**Affiliations**
+In addition to working on the determinants of trust in political journalism, my research has two main strands: One strand focuses on the interplay between European integration and national identities, focusing on how integration shapes national identities and vice versa. The other strand of my research focuses on differentiated integration in the EU. I am especially interested in how citizens of non-member states perceive the legitimacy of being subject to EU rules and what shapes public opinion towards different configurations of the EU's institutional set-up. My research has featured in journals such as *West European Politics*, *Journal of European Public Policy* and *JCMS: Journal of Common Market Studies*. 
 
-My primary affiliation is with the project [RECLAIM](https://ams.hi.is/en/projects/reclaim/), a Horizon 2020 funded project investigating both the post-truth turn of political debate, and what demands citizens place on quality journalism today. Through this project I contribute to survey experimental research studying how the style of journalism and fact-checking impacts attitudes towards the truthfulness of political journalism.  
-
-I am also affiliated with the project [SINGLEMARKETS](https://www.sv.uio.no/arena/english/research/projects/singlemarkets/index.html). This project investigates popular attitudes to single market governance in the EU and the US. I am also involved with the [COMPLEX](https://www.sv.uio.no/arena/english/research/projects/complex/) project, that studies potential conflicts when implementing European law at the national level. 
-
-You can always reach out to me at [martin.moland@arena.uio.no](mailto:martin.moland@arena.uio.no). 
+You can always reach out to me at [m.moland@delorscentre.eu](mailto:m.moland@delorscentre.eu). 
 
 
 
