@@ -20,7 +20,10 @@ Education
 
 Academic work experience
 ======
-* 2023 -: Postdoctoral research fellow
+* 2025 -: Postdoctoral research fellow
+  * Affiliated with DFG-funded project [Reconfiguring Europe](https://www.delorscentre.eu/en/research/reconfiguring-europe)
+  * PI: [Markus Jachtenfuchs](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/jachtenfuchs)
+* 2023-2025: Postdoctoral research fellow
   * Co-leader of WP4 of [RECLAIM](https://ams.hi.is/en/projects/reclaim/).
   * Also affiliated with projects [SINGLEMARKETS](https://www.sv.uio.no/arena/english/research/projects/singlemarkets/index.html) and [COMPLEX](https://www.sv.uio.no/arena/english/research/projects/complex/).
 * 2020-2023: PhD research fellow
