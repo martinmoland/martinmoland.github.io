@@ -145,7 +145,7 @@ function toggleAbstract(id) {
 
 <div class="pub-entry">
   <div class="pub-citation">
-    Moland, M. (2024). <span class="pub-title">Comparing elite and citizen attitudes towards the differentiated implementation of EU law: Evidence from a large-N survey of citizens, politicians and bureaucrats.</span> <em>West European Politics</em>, pp. 1–24.
+    Moland, M. (2024). <span class="pub-title">Comparing elite and citizen attitudes towards the differentiated implementation of EU law: Evidence from a large-N survey of citizens, politicians and bureaucrats.</span> <em>West European Politics</em>.
   </div>
   <div class="pub-links">
     <a class="pub-btn" href="https://martinmoland.github.io/files/COMPLEX_MOLAND_2024.pdf" target="_blank">PDF</a>
@@ -159,7 +159,7 @@ function toggleAbstract(id) {
 
 <div class="pub-entry">
   <div class="pub-citation">
-    Moland, M. (2024). <span class="pub-title">Past Political Asymmetry and Present Public Opinion: How Has the Asymmetrical Federation of the EU Shaped Popular Opinion of Its Optimal Shape?</span> <em>Publius: The Journal of Federalism</em>, 54(2), pp. 361–385.
+    Moland, M. (2024). <span class="pub-title">Past Political Asymmetry and Present Public Opinion: How Has the Asymmetrical Federation of the EU Shaped Popular Opinion of Its Optimal Shape?</span> <em>Publius: The Journal of Federalism</em>.
   </div>
   <div class="pub-links">
     <a class="pub-btn" href="https://martinmoland.github.io/files/Moland_2024_Publius.pdf" target="_blank">PDF</a>
