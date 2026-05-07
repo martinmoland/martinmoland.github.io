@@ -94,7 +94,7 @@ function toggleAbstract(id) {
   <div class="pub-links">
     <a class="pub-btn" href="https://doi.org/10.1093/publius/pjaf034" target="_blank">Publisher</a>
       <a class="pub-btn" href="https://martinmoland.github.io/files/Jacobs et al_2025.pdf" target="_blank">PDF</a>
-    <button class="pub-btn pub-btn-abstract" data-target="abs2" onclick="toggleAbstract('abs1')">Abstract</button>
+    <button class="pub-btn pub-btn-abstract" data-target="abs1" onclick="toggleAbstract('abs1')">Abstract</button>
   </div>
   <div class="pub-abstract" id="abs1">
     To what degree do citizens hold structured views about the governance of openness in multi-jurisdictional markets? This article presents the results of a preregistered experiment that assesses public attribution of governmental authority with respect to five issues central to market integration. We fielded the survey in the world’s two largest single markets, the United States and the European Union (EU). Across the nine sampled countries (N = 17,304), we find that EU residents are statistically more likely to make federal or geographic distinctions than American respondents, especially in the areas of goods regulations and standardized benefits for workers. We also find that certain subgroups are more likely to favor decentralized policy approaches to single market issues: those skeptical of regulation, those who are less trusting of government, and select partisan affiliates. Europeans’ relatively greater responsiveness is most plausibly explained, we argue, as a result of institutional mobilization. The EU’s single market project has fed back on European societies to attract citizens’ attention to the EU’s core goals of cross-border openness.
@@ -122,7 +122,7 @@ function toggleAbstract(id) {
   </div>
   <div class="pub-links">
     <a class="pub-btn" href="https://doi.org/10.17645/mac.8823" target="_blank">Publisher</a>
-    <button class="pub-btn pub-btn-abstract" data-target="abs1" onclick="toggleAbstract('abs3')">Abstract</button>
+    <button class="pub-btn pub-btn-abstract" data-target="abs3" onclick="toggleAbstract('abs3')">Abstract</button>
   </div>
   <div class="pub-abstract" id="abs3">
    Policymakers and news producers have long grappled with the challenges that fake news and misinformation pose to quality journalism. This has given rise to an extensive body of literature, covering various aspects from the characteristics of fake news to strategies for addressing it. However, the preferences of news consumers regarding the future of journalism and their views on how journalistic commitment to truth can best be maintained remain relatively overlooked in scholarly research. This article utilizes primary data from a survey (N = 4,521) fielded in Norway, Italy, and Poland in 2023 to show that, even in contemporary media environments, people continue to regard traditional journalistic ideals as the normative goals for future journalism. This suggests that journalists in an age of post-truth should focus less on rethinking journalism and more on adhering to its traditional goals of unbiased dissemination of facts.
@@ -136,7 +136,7 @@ function toggleAbstract(id) {
   <div class="pub-links">
     <a class="pub-btn" href="https://martinmoland.github.io/files/JEPP_2024_Moland.pdf" target="_blank">PDF</a>
     <a class="pub-btn" href="https://doi.org/10.1080/13501763.2024.2402869" target="_blank">Publisher</a>
-    <button class="pub-btn pub-btn-abstract" data-target="abs2" onclick="toggleAbstract('abs4')">Abstract</button>
+    <button class="pub-btn pub-btn-abstract" data-target="abs4" onclick="toggleAbstract('abs4')">Abstract</button>
   </div>
   <div class="pub-abstract" id="abs4">
     The link between European institutions and European identities remains an under-explored question. Similarly, we know little about how countries opting out of European integration have shaped their citizens' view of themselves as more or less European. Using general synthetic control models and data from 1983–2020 I find that people in countries with opt-outs tend to identify as more strongly European in the years after an opt-out is implemented, but that this effect can only be described as causal where the opt-outs were the result of bottom-up demand for more sovereignty in specific areas. This shows that providing individual countries with greater autonomy may strengthen their citizens' attachment to Europe, but that any such effect is likely to depend on domestic variations in for instance elite politicization of European integration.
@@ -150,7 +150,7 @@ function toggleAbstract(id) {
   <div class="pub-links">
     <a class="pub-btn" href="https://martinmoland.github.io/files/COMPLEX_MOLAND_2024.pdf" target="_blank">PDF</a>
     <a class="pub-btn" href="https://doi.org/10.1080/01402382.2024.2421661" target="_blank">Publisher</a>
-    <button class="pub-btn pub-btn-abstract" data-target="abs1" onclick="toggleAbstract('abs5')">Abstract</button>
+    <button class="pub-btn pub-btn-abstract" data-target="abs5" onclick="toggleAbstract('abs5')">Abstract</button>
   </div>
   <div class="pub-abstract" id="abs5">
     Transnational regulatory harmonization is a key building block of the international legal order. However, we know little about how elite and citizen views of it differ. Using data from a Norwegian survey from 2023 this article finds both citizen-elite and intra-elite gaps in perceptions of legal harmonization: First, citizens are significantly less likely to support legal harmonization than bureaucrats. In contrast, the article finds that their views of it are similar to those of all but the most Eurosceptic politicians. Furthermore, while the attitudes of bureaucrats only differ significantly from those of strongly Eurosceptic politicians, bureaucrats with a ministry or legal background hold views of legal harmonization significantly different from those of other civil servants. Future studies of public and elite opinion of international cooperation must thus theorize more clearly how the elite-citizen gap may vary for different elites, and empirically test how these differences manifest across policy areas.
@@ -164,7 +164,7 @@ function toggleAbstract(id) {
   <div class="pub-links">
     <a class="pub-btn" href="https://martinmoland.github.io/files/Moland_2024_Publius.pdf" target="_blank">PDF</a>
     <a class="pub-btn" href="https://doi.org/10.1093/publius/pjae001" target="_blank">Publisher</a>
-    <button class="pub-btn pub-btn-abstract" data-target="abs3" onclick="toggleAbstract('abs6')">Abstract</button>
+    <button class="pub-btn pub-btn-abstract" data-target="abs6" onclick="toggleAbstract('abs6')">Abstract</button>
   </div>
   <div class="pub-abstract" id="abs6">
     Asymmetries in the formal obligations and rights afforded to sub-units are mainstays of many federations that have been extensively studied from many angles. However, we know relatively little about how these asymmetries shape views on federalism in the future. By leveraging data on differentiated integration in the European Union (EU), conceptually very similar to asymmetrical federalism, and survey data on attitudes toward the optimal future of it, I show that historical exposure to differentiated integration resulting from a bottom-up process of demands for sub-unit autonomy correlates to increased support for permanent differentiation in the future, especially among those critical of the EU. However, the opposite applies to differentiation imposed by the EU. A legacy of asymmetric federalism may thus breed opposition or support for unitary European federalism, depending on both the mode of past asymmetry that citizens have been exposed to and their views of the EU.
@@ -178,7 +178,7 @@ function toggleAbstract(id) {
   <div class="pub-links">
     <a class="pub-btn" href="https://martinmoland.github.io/files/MolandMichailidou_2023.pdf" target="_blank">PDF</a>
     <a class="pub-btn" href="https://doi.org/10.1177/14789299231183574" target="_blank">Publisher</a>
-    <button class="pub-btn pub-btn-abstract" data-target="abs4" onclick="toggleAbstract('abs7')">Abstract</button>
+    <button class="pub-btn pub-btn-abstract" data-target="abs7" onclick="toggleAbstract('abs7')">Abstract</button>
   </div>
   <div class="pub-abstract" id="abs7">
     Given the well-documented negativity bias and attitudinal entrenchment associated with sharing and debating news in social media, a reasonable and already substantially investigated assumption is that those getting news about the EU mostly from social media would be more sceptical of its institutions than others. Empirical research on this topic has thus far largely deployed experimental and observational methods to investigate this assumption. We contribute to the existing literature with an Instrumental Variable Approach well-suited to establishing causal relationships in non-experimental data. However, we find no blanket causal relationship between relying on social media for news about the EU polity and becoming less trustful of its institutions. EU policies aiming to tackle negative effects of social media news consumption, therefore, need to be tailored to different demographic groups.
@@ -193,7 +193,7 @@ function toggleAbstract(id) {
     <a class="pub-btn" href="https://martinmoland.github.io/files/Opting%20for%20opt-outs%20-%20AAM.pdf" target="_blank">PDF</a>
     <a class="pub-btn" href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jcms.13478" target="_blank">Publisher</a>
     <a class="pub-btn" href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FDPBIG3" target="_blank">Replication</a>
-    <button class="pub-btn pub-btn-abstract" data-target="abs5" onclick="toggleAbstract('abs8')">Abstract</button>
+    <button class="pub-btn pub-btn-abstract" data-target="abs8" onclick="toggleAbstract('abs8')">Abstract</button>
   </div>
   <div class="pub-abstract" id="abs8">
     A large literature investigates individual support for European integration. However, support for differentiated integration has only recently become an important topic of study for public opinion scholars. Previous literature on this issue has not probed how differentiated integration is shaped by exclusively national identities, and whether the effect varies by how differentiation has been framed. Using survey data from 2020–21, I show that exclusively national citizens are most likely to support differentiated integration that allows for greater national autonomy and may oppose differentiation whose primary goal it is to facilitate further integration. However, I find no clear link between elite framing of differentiated integration and popular support for it. This raises important questions both about what kind of differentiated integration will enjoy public legitimacy and how cues shape support for EU differentiation.
@@ -207,7 +207,7 @@ function toggleAbstract(id) {
   <div class="pub-links">
     <a class="pub-btn" href="https://martinmoland.github.io/files/Accepted%20paper%20-%20WEP.pdf" target="_blank">PDF</a>
     <a class="pub-btn" href="https://www.tandfonline.com/doi/abs/10.1080/01402382.2022.2104052" target="_blank">Publisher</a>
-    <button class="pub-btn pub-btn-abstract" data-target="abs6" onclick="toggleAbstract('abs9')">Abstract</button>
+    <button class="pub-btn pub-btn-abstract" data-target="abs9" onclick="toggleAbstract('abs9')">Abstract</button>
   </div>
   <div class="pub-abstract" id="abs9">
     One of the key features of the post-Maastricht Treaty EU is the increasing contestation of its integration. This is often attributed to the EU's increasing integration of politically salient policy areas core to state functioning, so-called "core state powers" (CSPs). These are often thought to have features making their integration particularly likely to be contested. However, whether this equally applies to all core state powers, and whether those with exclusively national identities express generally identical support for all forms of CSP integration, is under-investigated. Using Eurobarometer data from 2019–2021, this article shows that those with no European identity are more likely to oppose CSP integration where it constrains member states' domestic, rather than external, autonomy. This implies that an emerging constraining dissensus may be less of a challenge for the EU's increasing foreign policy integration, but that it may hinder further integration of domestic core state power integration.
@@ -223,7 +223,7 @@ function toggleAbstract(id) {
     Moland, M. and Michailidou, A. (2024). <span class="pub-title"><span class="pub-title">&lsquo;United, we tweet&rsquo;: Belonging and solidarity in German and Greek Twitter-spheres.</span> In: Fossum, J.E. and Batora, J. (eds) <em>EU Differentiation and the Question of Domination: From the Financial Crisis to COVID-19</em>. Routledge.
   </div>
   <div class="pub-links">
-    <button class="pub-btn pub-btn-abstract" data-target="abs7" onclick="toggleAbstract('abs10')">Abstract</button>
+    <button class="pub-btn pub-btn-abstract" data-target="abs10" onclick="toggleAbstract('abs10')">Abstract</button>
     <a class="pub-btn" href="https://doi.org/10.4324/9781003251729" target="_blank">Publisher</a>
   </div>
   <div class="pub-abstract" id="abs10">
@@ -241,7 +241,7 @@ function toggleAbstract(id) {
   </div>
   <div class="pub-links">
     <a class="pub-btn" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3889187" target="_blank">SSRN</a>
-    <button class="pub-btn pub-btn-abstract" data-target="abs8" onclick="toggleAbstract('abs11')">Abstract</button>
+    <button class="pub-btn pub-btn-abstract" data-target="abs11" onclick="toggleAbstract('abs11')">Abstract</button>
   </div>
   <div class="pub-abstract" id="abs11">
     As social media platforms have become a staple news source for many EU citizens, we model repurposed Eurobarometer data from 27 EU member states to explore the possible polarising effects of social media use on public opinion about European integration. In a first step, we investigate whether social media use is correlated with decreased trust in the EU. In a second step, we probe the link between social media news consumption, fake news and polarisation by expanding the cross-sectional analysis with EU level analyses of the interaction between social media use and fake news. Our research paper finds no significant correlation between social media use and increased Euroscepticism at either step. We argue that this lack of significant social media effects at the aggregate level is an argument for why future research on social media effects should incorporate measures of these effects at both the individual and societal level.
