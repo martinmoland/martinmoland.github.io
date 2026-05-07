@@ -90,7 +90,7 @@ function toggleAbstract(id) {
 
 <div class="pub-entry">
   <div class="pub-citation">
-    Moland, M. (2024). <span class="pub-title">Reinforcing or Rethinking? What Do News Consumers Want From Journalism in the Post-Truth Era?</span> <em>Media and Communications</em>, volume 13.
+    Moland, M. (2025). <span class="pub-title">Reinforcing or Rethinking? What Do News Consumers Want From Journalism in the Post-Truth Era?</span> <em>Media and Communications</em>, volume 13.
   </div>
   <div class="pub-links">
     <a class="pub-btn" href="https://doi.org/10.17645/mac.8823" target="_blank">Publisher</a>
