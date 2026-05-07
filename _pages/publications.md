@@ -240,9 +240,9 @@ function toggleAbstract(id) {
   </div>
   <div class="pub-links">
       <a class="pub-btn" href="https://martinmoland.github.io/files/Moland_austerity_2025.pdf" target="_blank">PDF</a>
-    <button class="pub-btn pub-btn-abstract" data-target="abs1" onclick="toggleAbstract('abs1')">Abstract</button>
+    <button class="pub-btn pub-btn-abstract" data-target="abs12" onclick="toggleAbstract('abs12')">Abstract</button>
   </div>
-  <div class="pub-abstract" id="abs1">
+  <div class="pub-abstract" id="abs12">
     Austerity programs have a well-known detrimental impact on health, economic security and political trust. However, less is known about whether internationally imposed austerity translates to a defensive nationalism that may solidify opposition to the same international institutions. This paper investigates this broader question through the lens the European sovereign debt crisis. Using data on national and European identity between $1983-2021$, I show that austerity seems to have strengthened national identities immediately after the austerity packages were imposed, but that the effects subsided quickly. I also find that this effect was most meaningful where austerity had the most severe economic and social impact. My results suggest that international institutions' attempts to impose fiscal conditionality may end up undermining the identification that they rely on for popular legitimacy in the longer run. 
   </div>
 </div>
