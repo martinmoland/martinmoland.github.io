@@ -90,6 +90,33 @@ function toggleAbstract(id) {
 
 <div class="pub-entry">
   <div class="pub-citation">
+    Moland, M. (2024). <span class="pub-title">Reinforcing or Rethinking? What Do News Consumers Want From Journalism in the Post-Truth Era?</span> <em>Media and Communications</em>, volume 13.
+  </div>
+  <div class="pub-links">
+    <a class="pub-btn" href="https://doi.org/10.17645/mac.8823" target="_blank">Publisher</a>
+    <button class="pub-btn pub-btn-abstract" data-target="abs1" onclick="toggleAbstract('abs1')">Abstract</button>
+  </div>
+  <div class="pub-abstract" id="abs1">
+   Policymakers and news producers have long grappled with the challenges that fake news and misinformation pose to quality journalism. This has given rise to an extensive body of literature, covering various aspects from the characteristics of fake news to strategies for addressing it. However, the preferences of news consumers regarding the future of journalism and their views on how journalistic commitment to truth can best be maintained remain relatively overlooked in scholarly research. This article utilizes primary data from a survey (N = 4,521) fielded in Norway, Italy, and Poland in 2023 to show that, even in contemporary media environments, people continue to regard traditional journalistic ideals as the normative goals for future journalism. This suggests that journalists in an age of post-truth should focus less on rethinking journalism and more on adhering to its traditional goals of unbiased dissemination of facts.
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-citation">
+    Moland, M. (2025). <span class="pub-title">Opting out of an EU identity? The effect of differentiated integration on European identity.</span> <em>Journal of European Public Policy</em>.
+  </div>
+  <div class="pub-links">
+    <a class="pub-btn" href="https://martinmoland.github.io/files/JEPP_2024_Moland.pdf" target="_blank">PDF</a>
+    <a class="pub-btn" href="https://doi.org/10.1080/13501763.2024.2402869" target="_blank">Publisher</a>
+    <button class="pub-btn pub-btn-abstract" data-target="abs2" onclick="toggleAbstract('abs2')">Abstract</button>
+  </div>
+  <div class="pub-abstract" id="abs2">
+    The link between European institutions and European identities remains an under-explored question. Similarly, we know little about how countries opting out of European integration have shaped their citizens' view of themselves as more or less European. Using general synthetic control models and data from 1983–2020 I find that people in countries with opt-outs tend to identify as more strongly European in the years after an opt-out is implemented, but that this effect can only be described as causal where the opt-outs were the result of bottom-up demand for more sovereignty in specific areas. This shows that providing individual countries with greater autonomy may strengthen their citizens' attachment to Europe, but that any such effect is likely to depend on domestic variations in for instance elite politicization of European integration.
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-citation">
     Moland, M. (2024). <span class="pub-title">Comparing elite and citizen attitudes towards the differentiated implementation of EU law: Evidence from a large-N survey of citizens, politicians and bureaucrats.</span> <em>West European Politics</em>, pp. 1–24.
   </div>
   <div class="pub-links">
@@ -99,20 +126,6 @@ function toggleAbstract(id) {
   </div>
   <div class="pub-abstract" id="abs1">
     Transnational regulatory harmonization is a key building block of the international legal order. However, we know little about how elite and citizen views of it differ. Using data from a Norwegian survey from 2023 this article finds both citizen-elite and intra-elite gaps in perceptions of legal harmonization: First, citizens are significantly less likely to support legal harmonization than bureaucrats. In contrast, the article finds that their views of it are similar to those of all but the most Eurosceptic politicians. Furthermore, while the attitudes of bureaucrats only differ significantly from those of strongly Eurosceptic politicians, bureaucrats with a ministry or legal background hold views of legal harmonization significantly different from those of other civil servants. Future studies of public and elite opinion of international cooperation must thus theorize more clearly how the elite-citizen gap may vary for different elites, and empirically test how these differences manifest across policy areas.
-  </div>
-</div>
-
-<div class="pub-entry">
-  <div class="pub-citation">
-    Moland, M. (2024). <span class="pub-title">Opting out of an EU identity? The effect of differentiated integration on European identity.</span> <em>Journal of European Public Policy</em>.
-  </div>
-  <div class="pub-links">
-    <a class="pub-btn" href="https://martinmoland.github.io/files/JEPP_2024_Moland.pdf" target="_blank">PDF</a>
-    <a class="pub-btn" href="https://doi.org/10.1080/13501763.2024.2402869" target="_blank">Publisher</a>
-    <button class="pub-btn pub-btn-abstract" data-target="abs2" onclick="toggleAbstract('abs2')">Abstract</button>
-  </div>
-  <div class="pub-abstract" id="abs2">
-    The link between European institutions and European identities remains an under-explored question. Similarly, we know little about how countries opting out of European integration have shaped their citizens' view of themselves as more or less European. Using general synthetic control models and data from 1983–2020 I find that people in countries with opt-outs tend to identify as more strongly European in the years after an opt-out is implemented, but that this effect can only be described as causal where the opt-outs were the result of bottom-up demand for more sovereignty in specific areas. This shows that providing individual countries with greater autonomy may strengthen their citizens' attachment to Europe, but that any such effect is likely to depend on domestic variations in for instance elite politicization of European integration.
   </div>
 </div>
 
