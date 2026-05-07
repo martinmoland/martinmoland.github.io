@@ -220,7 +220,7 @@ function toggleAbstract(id) {
 
 <div class="pub-entry">
   <div class="pub-citation">
-    Moland, M. and Michailidou, A. (2024). <span class="pub-title"><span class="pub-title">&lsquo;United, we tweet&rsquo;: Belonging and solidarity in German and Greek Twitter-spheres.</span> In: Fossum, J.E. and Batora, J. (eds) <em>EU Differentiation and the Question of Domination: From the Financial Crisis to COVID-19</em>. Routledge.
+    Moland, M. and Michailidou, A. (2024). <span class="pub-title">&lsquo;United, we tweet&rsquo;: Belonging and solidarity in German and Greek Twitter-spheres.</span> In: Fossum, J.E. and Batora, J. (eds) <em>EU Differentiation and the Question of Domination: From the Financial Crisis to COVID-19</em>. Routledge.
   </div>
   <div class="pub-links">
     <button class="pub-btn pub-btn-abstract" data-target="abs10" onclick="toggleAbstract('abs10')">Abstract</button>
