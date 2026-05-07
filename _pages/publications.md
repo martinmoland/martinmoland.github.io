@@ -179,11 +179,11 @@ function toggleAbstract(id) {
 
 <div class="pub-entry">
   <div class="pub-citation">
-    Moland, M. and Michailidou, A. (forthcoming). <span class="pub-title">'United, we tweet': Belonging and solidarity in German and Greek Twitter-spheres.</span> In: Fossum, J.E. and Batora, J. (eds) <em>EU Differentiation and the Question of Domination: From the Financial Crisis to COVID-19</em>. Routledge.
+    Moland, M. and Michailidou, A. (2024). <span class="pub-title"><span class="pub-title">&lsquo;United, we tweet&rsquo;: Belonging and solidarity in German and Greek Twitter-spheres.</span> In: Fossum, J.E. and Batora, J. (eds) <em>EU Differentiation and the Question of Domination: From the Financial Crisis to COVID-19</em>. Routledge.
   </div>
   <div class="pub-links">
     <button class="pub-btn pub-btn-abstract" data-target="abs7" onclick="toggleAbstract('abs7')">Abstract</button>
-    <a class="pub-btn" href="https://www.routledge.com/Differentiation-and-Dominance-in-Europes-Poly-Crises/Batora-Fossum/p/book/9781032270555" target="_blank">Publisher</a>
+    <a class="pub-btn" href="https://doi.org/10.4324/9781003251729" target="_blank">Publisher</a>
   </div>
   <div class="pub-abstract" id="abs7">
     The question of what characterises the European public sphere, and whether one exists in the first place, has been a topic of flourishing academic debate for many years. Concomitant with the rise of social media such as Twitter and Facebook, the focus has shifted to exploring how social media can be used to encourage a European public sphere that is fully transnational in nature. Our paper contributes to this literature by focusing on the transnationalisation of the public sphere in the context of European integration under conditions of crisis. Using a topic modelling approach, we map the topics of German and Greek Twitter-sphere surrounding the refugee crisis of 2015–2016 and the COVID-19 crisis of 2020–2021, exploiting the multilingual nature of Twitter discourses in the two countries to investigate transnationalization and Europeanization of discourses both in domestic-language and English-language tweets in the two countries.
