@@ -87,10 +87,38 @@ function toggleAbstract(id) {
 </script>
 
 # Peer-reviewed journal articles
+<div class="pub-entry">
+  <div class="pub-citation">
+    Jacobs, N.F., Moland, M. and Parsons, C.A. (2025). <span class="pub-title">Do Citizens Have Views about Single Market Governance?</span> <em>Publius: The Journal of Federalism</em>.
+  </div>
+  <div class="pub-links">
+    <a class="pub-btn" href="https://doi.org/10.1093/publius/pjaf034" target="_blank">Publisher</a>
+      <a class="pub-btn" href="https://martinmoland.github.io/files/Jacobs et al_2025.pdf" target="_blank">PDF</a>
+    <button class="pub-btn pub-btn-abstract" data-target="abs2" onclick="toggleAbstract('abs2')">Abstract</button>
+  </div>
+  <div class="pub-abstract" id="abs2">
+    To what degree do citizens hold structured views about the governance of openness in multi-jurisdictional markets? This article presents the results of a preregistered experiment that assesses public attribution of governmental authority with respect to five issues central to market integration. We fielded the survey in the world’s two largest single markets, the United States and the European Union (EU). Across the nine sampled countries (N = 17,304), we find that EU residents are statistically more likely to make federal or geographic distinctions than American respondents, especially in the areas of goods regulations and standardized benefits for workers. We also find that certain subgroups are more likely to favor decentralized policy approaches to single market issues: those skeptical of regulation, those who are less trusting of government, and select partisan affiliates. Europeans’ relatively greater responsiveness is most plausibly explained, we argue, as a result of institutional mobilization. The EU’s single market project has fed back on European societies to attract citizens’ attention to the EU’s core goals of cross-border openness.
+  </div>
+</div>
+
 
 <div class="pub-entry">
   <div class="pub-citation">
-    Moland, M. (2025). <span class="pub-title">Reinforcing or Rethinking? What Do News Consumers Want From Journalism in the Post-Truth Era?</span> <em>Media and Communications</em>, volume 13.
+    Jacobs, N.F., Moland, M. and Parsons, C.A. (2025). <span class="pub-title">Postfunctionalism across the Atlantic: The “New Politics” in European Integration and US Federalism</span> <em>Publius: The Journal of Federalism</em>.
+  </div>
+  <div class="pub-links">
+    <a class="pub-btn" href="https://doi.org/10.1093/publius/pjaf037" target="_blank">Publisher</a>
+    <button class="pub-btn pub-btn-abstract" data-target="abs2" onclick="toggleAbstract('abs2')">Abstract</button>
+  </div>
+  <div class="pub-abstract" id="abs2">
+    The European Union’s internal market was modeled in part on the United States’ national market, yet public attitudes toward market governance in the two arenas have long been understood through different theoretical lenses. In this article, we apply the postfunctionalist theory of European integration—developed to explain EU citizens’ attitudes toward supranational authority—to American federalism, testing whether cultural identity divides (GAL/TAN) shape public opinion on central market governance in the United States as they do in Europe. Using an original survey of 16,000 respondents across eight EU countries and 4,000 Americans, we find that postfunctionalist dynamics are robust in both contexts, challenging prevailing views that American attitudes toward federalism are driven primarily by Left–Right ideology or material interests. Our findings suggest that identity-based contestation over governance extends beyond the EU’s nation-state politics, requiring a broader theoretical framework to understand the intersection of culture, federalism, and economic integration across advanced democracies.
+  </div>
+</div>
+
+
+<div class="pub-entry">
+  <div class="pub-citation">
+    Moland, M. (2025). <span class="pub-title">Reinforcing or Rethinking? What Do News Consumers Want From Journalism in the Post-Truth Era?</span> <em>Media and Communications</em>.
   </div>
   <div class="pub-links">
     <a class="pub-btn" href="https://doi.org/10.17645/mac.8823" target="_blank">Publisher</a>
