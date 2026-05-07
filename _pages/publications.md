@@ -234,6 +234,19 @@ function toggleAbstract(id) {
 ---
 
 # Working papers and pre-prints
+<div class="pub-entry">
+  <div class="pub-citation">
+    Moland, M. (2026). <span class="pub-title">Do austerity programs strengthen nationalist sentiment? Evidence from the European Union</span> <em>Preprint.
+  </div>
+  <div class="pub-links">
+      <a class="pub-btn" href="https://martinmoland.github.io/files/Moland_austerity_2025.pdf" target="_blank">PDF</a>
+    <button class="pub-btn pub-btn-abstract" data-target="abs1" onclick="toggleAbstract('abs1')">Abstract</button>
+  </div>
+  <div class="pub-abstract" id="abs1">
+    Austerity programs have a well-known detrimental impact on health, economic security and political trust. However, less is known about whether internationally imposed austerity translates to a defensive nationalism that may solidify opposition to the same international institutions. This paper investigates this broader question through the lens the European sovereign debt crisis. Using data on national and European identity between $1983-2021$, I show that austerity seems to have strengthened national identities immediately after the austerity packages were imposed, but that the effects subsided quickly. I also find that this effect was most meaningful where austerity had the most severe economic and social impact. My results suggest that international institutions' attempts to impose fiscal conditionality may end up undermining the identification that they rely on for popular legitimacy in the longer run. 
+  </div>
+</div>
+
 
 <div class="pub-entry">
   <div class="pub-citation">
