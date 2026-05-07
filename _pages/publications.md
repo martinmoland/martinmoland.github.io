@@ -236,7 +236,7 @@ function toggleAbstract(id) {
 # Working papers and pre-prints
 <div class="pub-entry">
   <div class="pub-citation">
-    Moland, M. (2026). <span class="pub-title">Do austerity programs strengthen nationalist sentiment? Evidence from the European Union</span> <em>Preprint.
+    Moland, M. (2026). <span class="pub-title">Do austerity programs strengthen nationalist sentiment? Evidence from the European Union</span> <em>Preprint</em>.
   </div>
   <div class="pub-links">
       <a class="pub-btn" href="https://martinmoland.github.io/files/Moland_austerity_2025.pdf" target="_blank">PDF</a>
