@@ -240,6 +240,7 @@ function toggleAbstract(id) {
     Moland, M. (2026). <span class="pub-title">Do austerity programs strengthen nationalist sentiment? Evidence from the European Union</span> <em>Preprint</em>.
   </div>
   <div class="pub-links">
+      <a class="pub-btn" href="https://osf.io/preprints/socarxiv/5b9gr_v3" target="_blank">OSF</a>
       <a class="pub-btn" href="https://martinmoland.github.io/files/Moland_austerity_2025.pdf" target="_blank">PDF</a>
     <button class="pub-btn pub-btn-abstract" data-target="abs12" onclick="toggleAbstract('abs12')">Abstract</button>
   </div>
