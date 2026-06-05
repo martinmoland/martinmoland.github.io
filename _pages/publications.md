@@ -89,6 +89,20 @@ function toggleAbstract(id) {
 # Peer-reviewed journal articles
 <div class="pub-entry">
   <div class="pub-citation">
+    Moland, M., Bach, T., Jacobs, N.F. and Parsons, C.A. (2025). <span class="pub-title">New or old politics? Understanding public preferences for the EU single market</span> <em>European Political Science Review</em>.
+  </div>
+  <div class="pub-links">
+    <a class="pub-btn" href="https://doi:10.1017/S1755773926100526" target="_blank">Publisher</a>
+      <a class="pub-btn" href="https://martinmoland.github.io/files/Moland et al_EPSR_2026.pdf" target="_blank">PDF</a>
+    <button class="pub-btn pub-btn-abstract" data-target="abs1" onclick="toggleAbstract('abs13')">Abstract</button>
+  </div>
+  <div class="pub-abstract" id="abs13">
+    Despite its place at the core of EU integration, support for the EU’s single market is under-investigated by European public opinion scholars. This paper uses novel survey data from eight EU member states to compare how utilitarian concerns, postmaterialist values and national identities shape popular views of the EU’s single market. Focusing on the freedom of movement for goods, workers, and services, we find that postmaterialist attitudes more consistently predict attitudes towards the single market than economic positioning. We thus contribute to the literature on attitudes towards European integration by showing that postmaterialist values and national identities matter not only for views of highly politicized issues like migration, but also for “bread-and-butter” policies like single market governance. These results are particularly surprising given that we would expect utilitarian expectations to be particularly prominent for these kinds of economic policies.
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-citation">
     Jacobs, N.F., Moland, M. and Parsons, C.A. (2025). <span class="pub-title">Do Citizens Have Views about Single Market Governance?</span> <em>Publius: The Journal of Federalism</em>.
   </div>
   <div class="pub-links">
