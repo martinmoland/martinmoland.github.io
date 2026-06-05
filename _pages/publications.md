@@ -92,7 +92,7 @@ function toggleAbstract(id) {
     Moland, M., Bach, T., Jacobs, N.F. and Parsons, C.A. (2025). <span class="pub-title">New or old politics? Understanding public preferences for the EU single market</span> <em>European Political Science Review</em>.
   </div>
   <div class="pub-links">
-    <a class="pub-btn" href="https://shorturl.at/tILYX" target="_blank">Publisher</a>
+    <a class="pub-btn" href="https://doi.org/10.1017/S1755773926100526" target="_blank">Publisher</a>
       <a class="pub-btn" href="https://martinmoland.github.io/files/Moland et al_EPSR_2026.pdf" target="_blank">PDF</a>
     <button class="pub-btn pub-btn-abstract" data-target="abs1" onclick="toggleAbstract('abs13')">Abstract</button>
   </div>
